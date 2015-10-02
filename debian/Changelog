@@ -1,0 +1,58 @@
+Version 1.5.2 - 2012-06-12 (beta)
+----------------------------------------
+Notes:
+  - Fixed bug #61358 ("Warning: String is not zero-terminated" failing tests
+  w/PHP 5.3.10) - Fixed build on PHP 5.4+
+
+Version 0.2 - 2004-01-08 (alpha)
+----------------------------------------
+Notes:
+  Initial release.
+
+Version 0.3 - 2004-01-10 (alpha)
+----------------------------------------
+Notes:
+  Win32 build fixes.
+
+Version 1.0 - 2004-02-09 (stable)
+----------------------------------------
+Notes:
+  Add support to memory_limit (libxdiff >= 0.6 required).
+
+Version 1.1 - 2004-03-21 (stable)
+----------------------------------------
+Notes:
+  Fix FreeBSD build.
+
+Version 1.2 - 2004-11-09 (stable)
+----------------------------------------
+Notes:
+  Fix libxdiff 0.9 crash. Force last parameters of xdiff_string_patch and
+  xdiff_string_merge3 to be passed by reference.
+
+Version 1.3 - 2005-05-09 (stable)
+----------------------------------------
+Notes:
+  Fix compile error.
+
+Version 1.4 - 2005-11-14 (stable)
+----------------------------------------
+Notes:
+  Fixed bug #5064.
+
+Version 1.4.1 - 2008-07-01 (stable)
+----------------------------------------
+Notes:
+  Fixes for #7215, #7422 and #8227.
+
+Version 1.5.0 - 2009-10-18 (beta)
+----------------------------------------
+Notes:
+  New functions added. Memory optimizations. Better handling of out of memory
+  situations.
+
+Version 1.5.1 - 2009-10-18 (beta)
+----------------------------------------
+Notes:
+  Fix for #16566.
+

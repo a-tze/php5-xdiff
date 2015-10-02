@@ -1,0 +1,20 @@
+This package was debianized by Matthias Hunstock <atze@fem.tu-ilmenau.de> using dh-make-pecl
+on Fri, 02 Oct 2015 18:34:56 +0200.
+
+It was downloaded from http://pecl.php.net/package/xdiff
+
+Upstream Author(s):
+
+    Marcin Gibula
+
+Copyright:
+
+    Copyright (C) 2012 Marcin Gibula
+
+License:
+
+    Array
+
+The Debian packaging is copyright 2009, Matthias Hunstock <atze@fem.tu-ilmenau.de> and
+is licensed under the GPL, see `/usr/share/common-licenses/GPL'.
+

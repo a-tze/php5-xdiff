@@ -1,0 +1,7 @@
+php5-xdiff for Debian
+--------------------------
+
+This extension has been created with dh-make-pecl which is part
+of dh-make-php.
+
+ -- Matthias Hunstock <atze@fem.tu-ilmenau.de>, Fri, 02 Oct 2015 18:34:56 +0200

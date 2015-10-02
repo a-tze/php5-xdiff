@@ -1,0 +1,17 @@
+Source: php5-xdiff
+Section: web
+Priority: optional
+Maintainer: Matthias Hunstock <atze@fem.tu-ilmenau.de>
+Build-Depends: debhelper (>= 7), po-debconf, xsltproc, php5-dev, libxdiff-dev
+Standards-Version: 3.9.1
+
+Package: php5-xdiff
+Architecture: any
+Depends: ${shlibs:Depends}, ${php:Depends}, ${misc:Depends}
+Description: xdiff module for PHP 5
+ File differences/patches.
+ .
+ This extension creates and applies patches to both text and binary
+ files.
+
+

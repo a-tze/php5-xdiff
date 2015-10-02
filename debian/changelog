@@ -1,0 +1,6 @@
+php5-xdiff (1.5.2-1) unstable; urgency=low
+
+  * Initial Release (Closes: #<ITP bug number>).
+
+ -- Matthias Hunstock <atze@fem.tu-ilmenau.de>  Fri, 02 Oct 2015 18:34:56 +0200
+
