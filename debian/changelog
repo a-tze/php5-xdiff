@@ -1,4 +1,4 @@
-php5-xdiff (1.5.2-1) unstable; urgency=low
+php5-xdiff (1.5.2) unstable; urgency=low
 
   * Initial Release (Closes: #<ITP bug number>).
 
